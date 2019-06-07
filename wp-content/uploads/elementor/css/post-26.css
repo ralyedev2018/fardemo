@@ -1,0 +1,20 @@
+.elementor-26 .elementor-element.elementor-element-c6ee5a6 {margin-top: 0px;margin-bottom: 84px;padding: 100px 0px 210px 0px;}
+.elementor-26 .elementor-element.elementor-element-6515adf2 > .elementor-element-populated {border-style: solid;border-width: 1px 1px 1px 1px;border-color: #000;transition: background .3s,border .3s,border-radius .3s,box-shadow .3s;padding: 85px 150px 85px 150px;}
+.elementor-26 .elementor-element.elementor-element-6515adf2 > .elementor-element-populated > .elementor-background-overlay {transition: background .3s,border-radius .3s,opacity .3s;}
+.elementor-26 .elementor-element.elementor-element-73a0970d {text-align: center;}
+.elementor-26 .elementor-element.elementor-element-73a0970d.elementor-widget-heading .elementor-heading-title {color: #000;}
+.elementor-26 .elementor-element.elementor-element-73a0970d .elementor-heading-title {font-size: 45px;font-weight: 600;line-height: 1.2em;}
+.elementor-26 .elementor-element.elementor-element-7b08f3ab .elementor-text-editor {text-align: center;}
+.elementor-26 .elementor-element.elementor-element-7b08f3ab {color: #000;font-size: 12px;font-weight: 700;line-height: 2em;}
+.elementor-26 .elementor-element.elementor-element-bb6d344 .elementor-toggle .elementor-tab-title {border-width: 0px;color: #4cf204;font-size: 16px;letter-spacing: .7px;padding: 15px 15px 15px 15px;}
+.elementor-26 .elementor-element.elementor-element-bb6d344 .elementor-toggle .elementor-tab-content {border-width: 0px;color: #000;font-weight: 500;}
+.elementor-26 .elementor-element.elementor-element-bb6d344 .elementor-toggle .elementor-toggle-item {box-shadow: 0px 0px 10px 0px rgba(0,0,0,.5);}
+.elementor-26 .elementor-element.elementor-element-bb6d344 .elementor-toggle .elementor-tab-title.elementor-active {color: #23a455;}
+.elementor-26 .elementor-element.elementor-element-bb6d344 .elementor-toggle .elementor-toggle-icon.elementor-toggle-icon-left {margin-right: 8px;}
+.elementor-26 .elementor-element.elementor-element-bb6d344 .elementor-toggle .elementor-toggle-icon.elementor-toggle-icon-right {margin-left: 8px;}
+@media (max-width:1024px) {.elementor-26 .elementor-element.elementor-element-c6ee5a6 {padding: 100px 25px 100px 25px;}
+	.elementor-26 .elementor-element.elementor-element-6515adf2 > .elementor-element-populated {padding: 50px 50px 50px 50px;}
+	.elementor-26 .elementor-element.elementor-element-73a0970d .elementor-heading-title {font-size: 35px;}}
+@media (max-width:767px) {.elementor-26 .elementor-element.elementor-element-c6ee5a6 {padding: 50px 20px 50px 20px;}
+	.elementor-26 .elementor-element.elementor-element-6515adf2 > .elementor-element-populated {padding: 30px 30px 30px 30px;}
+	.elementor-26 .elementor-element.elementor-element-73a0970d .elementor-heading-title {font-size: 28px;}}
