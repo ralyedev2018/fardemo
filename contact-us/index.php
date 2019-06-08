@@ -76,19 +76,19 @@
                            <li id="menu-item-33" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-33"><a href="https://farringtonbridges.com/" class="menu-link"><span class="text-wrap">HOME</span></a></li>
                            <li id="menu-item-32" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="https://farringtonbridges.com/about-us/" class="menu-link"><span class="text-wrap">ABOUT US</span></a></li>
                            <li id="menu-item-35" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children dropdown menu-item-35 nav-no-click">
-                              <a href="https://farringtonbridges.com/services/" class="menu-link"><span class="text-wrap">SERVICES <span class="nav-arrow fa fa-angle-down"></span></span></a>
+                              <a href="https://ralyedev2018.github.io/fardemo/services/" class="menu-link"><span class="text-wrap">SERVICES <span class="nav-arrow fa fa-angle-down"></span></span></a>
                               <ul class="sub-menu">
-                                 <li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="https://farringtonbridges.com/business-growth/" class="menu-link"><span class="text-wrap">BUSINESS GROWTH</span></a></li>
-                                 <li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="https://farringtonbridges.com/product-solutions/" class="menu-link"><span class="text-wrap">PRODUCT SOLUTIONS</span></a></li>
-                                 <li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="https://farringtonbridges.com/liabilities-management/" class="menu-link"><span class="text-wrap">LIABILITIES MANAGEMENT</span></a></li>
-                                 <li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="https://farringtonbridges.com/research-strategy/" class="menu-link"><span class="text-wrap">RESEARCH & STRATEGY</span></a></li>
-                                 <li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="https://farringtonbridges.com/transition-services/" class="menu-link"><span class="text-wrap">TRANSITION SERVICES</span></a></li>
-                                 <li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="https://farringtonbridges.com/clearing-execution/" class="menu-link"><span class="text-wrap">CLEARING & EXECUTION</span></a></li>
+                                 <li id="menu-item-36" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="https://ralyedev2018.github.io/fardemo/business-growth/" class="menu-link"><span class="text-wrap">BUSINESS GROWTH</span></a></li>
+                                 <li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="https://ralyedev2018.github.io/fardemo/product-solutions/" class="menu-link"><span class="text-wrap">PRODUCT SOLUTIONS</span></a></li>
+                                 <li id="menu-item-38" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="https://ralyedev2018.github.io/fardemo/liabilities-management/" class="menu-link"><span class="text-wrap">LIABILITIES MANAGEMENT</span></a></li>
+                                 <li id="menu-item-39" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="https://ralyedev2018.github.io/fardemo/research-strategy/" class="menu-link"><span class="text-wrap">RESEARCH & STRATEGY</span></a></li>
+                                 <li id="menu-item-40" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="https://ralyedev2018.github.io/fardemo/transition-services/" class="menu-link"><span class="text-wrap">TRANSITION SERVICES</span></a></li>
+                                 <li id="menu-item-41" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="https://ralyedev2018.github.io/fardemo/clearing-execution/" class="menu-link"><span class="text-wrap">CLEARING & EXECUTION</span></a></li>
                               </ul>
                            </li>
-                           <li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a href="https://farringtonbridges.com/team-profiles/" class="menu-link"><span class="text-wrap">TEAM PROFILES</span></a></li>
-                           <li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="https://farringtonbridges.com/resources/" class="menu-link"><span class="text-wrap">RESOURCES</span></a></li>
-                           <li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-28 current_page_item menu-item-44"><a href="https://farringtonbridges.com/contact-us/index.php" class="menu-link"><span class="text-wrap">CONTACT US</span></a></li>
+                           <li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a href="https://ralyedev2018.github.io/fardemo/team-profiles/" class="menu-link"><span class="text-wrap">TEAM PROFILES</span></a></li>
+                           <li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="https://ralyedev2018.github.io/fardemo/resources/" class="menu-link"><span class="text-wrap">RESOURCES</span></a></li>
+                           <li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-28 current_page_item menu-item-44"><a href="https://ralyedev2018.github.io/fardemo/contact-us/" class="menu-link"><span class="text-wrap">CONTACT US</span></a></li>
                         </ul>
                      </nav>
                   </div>
@@ -103,21 +103,21 @@
                      <div id="mobile-nav" class="navigation clr">
                         <ul id="menu-main_menu-1" class="menu">
                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-33"><a href="https://farringtonbridges.com/">HOME</a></li>
-                           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="https://farringtonbridges.com/about-us/">ABOUT US</a></li>
+                           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-32"><a href="https://ralyedev2018.github.io/fardemo/about-us/">ABOUT US</a></li>
                            <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-35">
-                              <a href="https://farringtonbridges.com/services/">SERVICES</a>
+                              <a href="https://ralyedev2018.github.io/fardemo/services/">SERVICES</a>
                               <ul class="sub-menu">
-                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="https://farringtonbridges.com/business-growth/">BUSINESS GROWTH</a></li>
-                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="https://farringtonbridges.com/product-solutions/">PRODUCT SOLUTIONS</a></li>
-                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="https://farringtonbridges.com/liabilities-management/">LIABILITIES MANAGEMENT</a></li>
-                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="https://farringtonbridges.com/research-strategy/">RESEARCH & STRATEGY</a></li>
-                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="https://farringtonbridges.com/transition-services/">TRANSITION SERVICES</a></li>
-                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="https://farringtonbridges.com/clearing-execution/">CLEARING & EXECUTION</a></li>
+                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-36"><a href="https://ralyedev2018.github.io/fardemo/business-growth/">BUSINESS GROWTH</a></li>
+                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a href="https://ralyedev2018.github.io/fardemo/product-solutions/">PRODUCT SOLUTIONS</a></li>
+                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38"><a href="https://ralyedev2018.github.io/fardemo/liabilities-management/">LIABILITIES MANAGEMENT</a></li>
+                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-39"><a href="https://ralyedev2018.github.io/fardemo/research-strategy/">RESEARCH & STRATEGY</a></li>
+                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-40"><a href="https://ralyedev2018.github.io/fardemo/transition-services/">TRANSITION SERVICES</a></li>
+                                 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-41"><a href="https://ralyedev2018.github.io/fardemo/clearing-execution/">CLEARING & EXECUTION</a></li>
                               </ul>
                            </li>
-                           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a href="https://farringtonbridges.com/team-profiles/">TEAM PROFILES</a></li>
-                           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="https://farringtonbridges.com/resources/">RESOURCES</a></li>
-                           <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-28 current_page_item menu-item-44"><a href="https://farringtonbridges.com/contact-us/" aria-current="page">CONTACT US</a></li>
+                           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a href="https://ralyedev2018.github.io/fardemo/team-profiles/">TEAM PROFILES</a></li>
+                           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="https://ralyedev2018.github.io/fardemo/resources/">RESOURCES</a></li>
+                           <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-28 current_page_item menu-item-44"><a href="https://ralyedev2018.github.io/fardemo/contact-us/" aria-current="page">CONTACT US</a></li>
                         </ul>
                      </div>
                   </nav>
@@ -225,23 +225,23 @@
          </div>
       </div>
       <a id="scroll-top" class="scroll-top-right" href="#"><span class="fa fa-arrow-up"></span></a>
-      <script type="text/javascript" src="https://farringtonbridges.com/wp-includes/js/imagesloaded.min.js"></script>
-      <script type="text/javascript" src="https://farringtonbridges.com/wp-content/themes/oceanwp/assets/js/third/magnific-popup.min.js"></script>
-      <script type="text/javascript" src="https://farringtonbridges.com/wp-content/themes/oceanwp/assets/js/third/lightbox.min.js"></script>
+      <script type="text/javascript" src="https://ralyedev2018.github.io/fardemo/wp-includes/js/imagesloaded.min.js"></script>
+      <script type="text/javascript" src="https://ralyedev2018.github.io/fardemo/wp-content/themes/oceanwp/assets/js/third/magnific-popup.min.js"></script>
+      <script type="text/javascript" src="https://ralyedev2018.github.io/fardemo/wp-content/themes/oceanwp/assets/js/third/lightbox.min.js"></script>
       <script type="text/javascript">
          /* <![CDATA[ */
          var oceanwpLocalize = {"isRTL":"","menuSearchStyle":"disabled","sidrSource":null,"sidrDisplace":"1","sidrSide":"right","sidrDropdownTarget":"icon","verticalHeaderTarget":"icon","customSelects":".woocommerce-ordering .orderby, #dropdown_product_cat, .widget_categories select, .widget_archive select, .single-product .variations_form .variations select","ajax_url":"https:\/\/farringtonbridges.com\/wp-admin\/admin-ajax.php"};
          /* ]]> */
       </script>
-      <script type="text/javascript" src="https://farringtonbridges.com/wp-content/themes/oceanwp/assets/js/main.min.js"></script>
-      <script type="text/javascript" src="https://farringtonbridges.com/wp-content/plugins/elementor/assets/js/frontend-modules.min.js"></script>
-      <script type="text/javascript" src="https://farringtonbridges.com/wp-includes/js/jquery/ui/position.min.js"></script>
-      <script type="text/javascript" src="https://farringtonbridges.com/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js"></script>
-      <script type="text/javascript" src="https://farringtonbridges.com/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js"></script>
-      <script type="text/javascript" src="https://farringtonbridges.com/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js"></script>
+      <script type="text/javascript" src="https://ralyedev2018.github.io/fardemo/wp-content/themes/oceanwp/assets/js/main.min.js"></script>
+      <script type="text/javascript" src="https://ralyedev2018.github.io/fardemo/wp-content/plugins/elementor/assets/js/frontend-modules.min.js"></script>
+      <script type="text/javascript" src="https://ralyedev2018.github.io/fardemo/wp-includes/js/jquery/ui/position.min.js"></script>
+      <script type="text/javascript" src="https://ralyedev2018.github.io/fardemo/wp-content/plugins/elementor/assets/lib/dialog/dialog.min.js"></script>
+      <script type="text/javascript" src="https://ralyedev2018.github.io/fardemo/wp-content/plugins/elementor/assets/lib/waypoints/waypoints.min.js"></script>
+      <script type="text/javascript" src="https://ralyedev2018.github.io/fardemo/wp-content/plugins/elementor/assets/lib/swiper/swiper.min.js"></script>
       <script type="text/javascript">
          var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.5.16","urls":{"assets":"https:\/\/farringtonbridges.com\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_enable_lightbox_in_editor":"yes"}},"post":{"id":28,"title":"CONTACT US","excerpt":""}};
       </script>
-      <script type="text/javascript" src="https://farringtonbridges.com/wp-content/plugins/elementor/assets/js/frontend.min.js"></script>
+      <script type="text/javascript" src="https://ralyedev2018.github.io/fardemo/wp-content/plugins/elementor/assets/js/frontend.min.js"></script>
    </body>
 </html>
