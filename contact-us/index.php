@@ -88,7 +88,7 @@
                            </li>
                            <li id="menu-item-42" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-42"><a href="https://farringtonbridges.com/team-profiles/" class="menu-link"><span class="text-wrap">TEAM PROFILES</span></a></li>
                            <li id="menu-item-43" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-43"><a href="https://farringtonbridges.com/resources/" class="menu-link"><span class="text-wrap">RESOURCES</span></a></li>
-                           <li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-28 current_page_item menu-item-44"><a href="https://farringtonbridges.com/contact-us/" class="menu-link"><span class="text-wrap">CONTACT US</span></a></li>
+                           <li id="menu-item-44" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-28 current_page_item menu-item-44"><a href="https://farringtonbridges.com/contact-us/index.php" class="menu-link"><span class="text-wrap">CONTACT US</span></a></li>
                         </ul>
                      </nav>
                   </div>
